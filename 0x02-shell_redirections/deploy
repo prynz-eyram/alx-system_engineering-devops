@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "Being unique is better than being perfect"
+git commit -m "It must be in that file"
 
-git update-index --chmod=+x 13-unique
+git update-index --chmod=+x 14-findthatword
 
 git add .
 
-git commit -m "Being unique is better than being perfect"
+git commit -m "It must be in that file"
 
 git push
