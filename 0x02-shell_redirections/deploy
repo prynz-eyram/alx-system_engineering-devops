@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "Count that word"
+git commit -m "What's next?"
 
-git update-index --chmod=+x 15-countthatword
+git update-index --chmod=+x 16-whatsnext
 
 git add .
 
-git commit -m "Count that word"
+git commit -m "What's next?"
 
 git push
