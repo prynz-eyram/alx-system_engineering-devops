@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "It is a good file that cuts iron without making a noise"
+git commit -m "Save current state of directory"
 
-git update-index --chmod=+x 7-file
+git update-index --chmod=+x 8-cwd_state
 
 git add .
 
-git commit -m "It is a good file that cuts iron without making a noise"
+git commit -m "Save current state of directory"
 
 git push
