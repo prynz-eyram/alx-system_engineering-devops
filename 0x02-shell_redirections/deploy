@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "What’s new"
+git commit -m "Being unique is better than being perfect"
 
-git update-index --chmod=+x 12-newest_files
+git update-index --chmod=+x 13-unique
 
 git add .
 
-git commit -m "What’s new"
+git commit -m "Being unique is better than being perfect"
 
 git push
