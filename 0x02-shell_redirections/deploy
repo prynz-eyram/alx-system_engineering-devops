@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "Don't just count your directories, make your directories count"
+git commit -m "What’s new"
 
-git update-index --chmod=+x 11-directories
+git update-index --chmod=+x 12-newest_files
 
 git add .
 
-git commit -m "Don't just count your directories, make your directories count"
+git commit -m "What’s new"
 
 git push
