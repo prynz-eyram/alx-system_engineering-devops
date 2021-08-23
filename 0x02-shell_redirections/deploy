@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "Acrostic"
+git commit -m "A gif is worth ten thousand words"
 
-git update-index --chmod=+x 102-acrostic
+git update-index --chmod=+x 101-gifs
 
 git add .
 
-git commit -m "Acrostic"
+git commit -m "A gif is worth ten thousand words"
 
 git push
