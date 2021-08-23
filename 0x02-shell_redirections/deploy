@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "esreveR"
+git commit -m "DJ Cut Killer"
 
-git update-index --chmod=+x 21-reverse
+git update-index --chmod=+x 22-users_and_homes
 
 git add .
 
-git commit -m "esreveR"
+git commit -m "DJ Cut Killer"
 
 git push
