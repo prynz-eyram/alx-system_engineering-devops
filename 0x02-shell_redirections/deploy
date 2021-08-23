@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "DJ Cut Killer"
+git commit -m "Empty casks make the most noise"
 
-git update-index --chmod=+x 22-users_and_homes
+git update-index --chmod=+x 100-empty_casks
 
 git add .
 
-git commit -m "DJ Cut Killer"
+git commit -m "Empty casks make the most noise"
 
 git push
