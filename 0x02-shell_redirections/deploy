@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "What about 2"
+git commit -m "Last lines of a file"
 
-git update-index --chmod=+x 3-twofiles
+git update-index --chmod=+x 4-lastlines
 
 git add .
 
-git commit -m "What about 2"
+git commit -m "Last lines of a file"
 
 git push
