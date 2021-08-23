@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "No more javascript"
+git commit -m "Don't just count your directories, make your directories count"
 
-git update-index --chmod=+x 10-no_more_js
+git update-index --chmod=+x 11-directories
 
 git add .
 
-git commit -m "No more javascript"
+git commit -m "Don't just count your directories, make your directories count"
 
 git push
