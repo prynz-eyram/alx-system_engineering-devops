@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "It must be in that file"
+git commit -m "Count that word"
 
-git update-index --chmod=+x 14-findthatword
+git update-index --chmod=+x 15-countthatword
 
 git add .
 
-git commit -m "It must be in that file"
+git commit -m "Count that word"
 
 git push
