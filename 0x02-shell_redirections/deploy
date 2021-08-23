@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "Duplicate last line"
+git commit -m "No more javascript"
 
-git update-index --chmod=+x 9-duplicate_last_line
+git update-index --chmod=+x 10-no_more_js
 
 git add .
 
-git commit -m "Duplicate last line"
+git commit -m "No more javascript"
 
 git push
