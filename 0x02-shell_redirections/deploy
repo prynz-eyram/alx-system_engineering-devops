@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "A to Z"
+git commit -m "Without C, you would live in hiago"
 
-git update-index --chmod=+x 19-AZ
+git update-index --chmod=+x 20-hiago
 
 git add .
 
-git commit -m "A to Z"
+git commit -m "Without C, you would live in hiago"
 
 git push
