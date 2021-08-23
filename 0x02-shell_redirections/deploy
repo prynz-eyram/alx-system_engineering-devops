@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "Line #2"
+git commit -m "It is a good file that cuts iron without making a noise"
 
-git update-index --chmod=+x 6-third_line
+git update-index --chmod=+x 7-file
 
 git add .
 
-git commit -m "Line #2"
+git commit -m "It is a good file that cuts iron without making a noise"
 
 git push
