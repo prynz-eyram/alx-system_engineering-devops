@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "Let's display a file"
+git commit -m "What about 2"
 
-git update-index --chmod=+x 2-hellofile
+git update-index --chmod=+x 3-twofiles
 
 git add .
 
-git commit -m "Let's display a file"
+git commit -m "What about 2"
 
 git push
