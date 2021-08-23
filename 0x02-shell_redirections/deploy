@@ -2,14 +2,12 @@
 
 git add .
 
-git commit -m "Confused smiley"
+git commit -m "Let's display a file"
 
-git update-index --chmod=+x 1-confused_smiley
+git update-index --chmod=+x 2-hellofile
 
 git add .
 
-git commit -m "Confused smiley"
+git commit -m "Let's display a file"
 
 git push
-
-prynz-eyram
