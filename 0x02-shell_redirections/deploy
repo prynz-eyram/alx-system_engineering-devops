@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "Last lines of a file"
+git commit -m "I'd prefer the first ones actually"
 
-git update-index --chmod=+x 4-lastlines
+git update-index --chmod=+x 5-firstlines
 
 git add .
 
-git commit -m "Last lines of a file"
+git commit -m "I'd prefer the first ones actually"
 
 git push
