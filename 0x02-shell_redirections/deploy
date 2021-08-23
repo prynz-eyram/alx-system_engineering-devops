@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "Without C, you would live in hiago"
+git commit -m "esreveR"
 
-git update-index --chmod=+x 20-hiago
+git update-index --chmod=+x 21-reverse
 
 git add .
 
-git commit -m "Without C, you would live in hiago"
+git commit -m "esreveR"
 
 git push
