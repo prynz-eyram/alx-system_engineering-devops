@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "Save current state of directory"
+git commit -m "Duplicate last line"
 
-git update-index --chmod=+x 8-cwd_state
+git update-index --chmod=+x 9-duplicate_last_line
 
 git add .
 
-git commit -m "Save current state of directory"
+git commit -m "Duplicate last line"
 
 git push
