@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "I hate bins"
+git commit -m "Letters only please"
 
-git update-index --chmod=+x 17-hidethisword
+git update-index --chmod=+x 18-letteronly
 
 git add .
 
-git commit -m "I hate bins"
+git commit -m "Letters only please"
 
 git push
