@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "I'd prefer the first ones actually"
+git commit -m "Line #2"
 
-git update-index --chmod=+x 5-firstlines
+git update-index --chmod=+x 6-third_line
 
 git add .
 
-git commit -m "I'd prefer the first ones actually"
+git commit -m "Line #2"
 
 git push
