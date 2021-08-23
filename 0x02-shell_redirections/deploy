@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "A gif is worth ten thousand words"
+git commit -m "The biggest fan"
 
-git update-index --chmod=+x 101-gifs
+git update-index --chmod=+x 103-the_biggest_fan
 
 git add .
 
-git commit -m "A gif is worth ten thousand words"
+git commit -m "The biggest fan"
 
 git push
