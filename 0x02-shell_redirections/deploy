@@ -1,0 +1,15 @@
+#!/bin/bash
+
+git add .
+
+git commit -m "Confused smiley"
+
+git update-index --chmod=+x 1-confused_smiley
+
+git add .
+
+git commit -m "Confused smiley"
+
+git push
+
+prynz-eyram
