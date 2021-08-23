@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "Letters only please"
+git commit -m "A to Z"
 
-git update-index --chmod=+x 18-letteronly
+git update-index --chmod=+x 19-AZ
 
 git add .
 
-git commit -m "Letters only please"
+git commit -m "A to Z"
 
 git push
