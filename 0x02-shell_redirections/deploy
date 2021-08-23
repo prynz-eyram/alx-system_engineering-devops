@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "What's next?"
+git commit -m "I hate bins"
 
-git update-index --chmod=+x 16-whatsnext
+git update-index --chmod=+x 17-hidethisword
 
 git add .
 
-git commit -m "What's next?"
+git commit -m "I hate bins"
 
 git push
