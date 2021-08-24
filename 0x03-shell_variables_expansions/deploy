@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "Floats"
+git commit -m "Decimal to Hexadecimal"
 
-git update-index --chmod=+x 13-print_float
+git update-index --chmod=+x 100-decimal_to_hexadecimal
 
 git add .
 
-git commit -m "Floats"
+git commit -m "Decimal to Hexadecimal"
 
 git push
