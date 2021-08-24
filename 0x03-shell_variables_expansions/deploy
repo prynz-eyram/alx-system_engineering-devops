@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "Hello you"
+git commit -m "The path to success is to take massive, determined action"
 
-git update-index --chmod=+x 1-hello_you
+git update-index --chmod=+x 2-path
 
 git add .
 
-git commit -m "Hello you"
+git commit -m "The path to success is to take massive, determined action"
 
 git push
