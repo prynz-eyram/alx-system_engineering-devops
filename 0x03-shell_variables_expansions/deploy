@@ -1,0 +1,13 @@
+#!/bin/bash
+
+git add .
+
+git commit -m "<o>"
+
+git update-index --chmod=+x 0-alias
+
+git add .
+
+git commit -m "<o>"
+
+git push
