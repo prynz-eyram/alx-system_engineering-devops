@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "<o>"
+git commit -m "Hello you"
 
-git update-index --chmod=+x 0-alias
+git update-index --chmod=+x 1-hello_you
 
 git add .
 
-git commit -m "<o>"
+git commit -m "Hello you"
 
 git push
