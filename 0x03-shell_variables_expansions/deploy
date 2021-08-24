@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "If the path be beautiful, let us not ask where it leads"
+git commit -m "Global variables"
 
-git update-index --chmod=+x 3-paths
+git update-index --chmod=+x 4-global_variables
 
 git add .
 
-git commit -m "If the path be beautiful, let us not ask where it leads"
+git commit -m "Global variables"
 
 git push
