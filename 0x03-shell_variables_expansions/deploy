@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "Everyone is a proponent of strong encryption"
+git commit -m "The eggs of the brood need to be an odd number"
 
-git update-index --chmod=+x 101-rot13
+git update-index --chmod=+x 102-odd
 
 git add .
 
-git commit -m "Everyone is a proponent of strong encryption"
+git commit -m "The eggs of the brood need to be an odd number"
 
 git push
