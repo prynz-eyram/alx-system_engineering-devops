@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "Divide and rule"
+git commit -m "Love is anterior to life, posterior to death, initial of creation, and the exponent of breath"
 
-git update-index --chmod=+x 9-divide_and_rule
+git update-index --chmod=+x 10-love_exponent_breath
 
 git add .
 
-git commit -m "Divide and rule"
+git commit -m "Love is anterior to life, posterior to death, initial of creation, and the exponent of breath"
 
 git push
