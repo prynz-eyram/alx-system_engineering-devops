@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "Every addition to true knowledge is an addition to human power"
+git commit -m "Divide and rule"
 
-git update-index --chmod=+x 8-true_knowledge
+git update-index --chmod=+x 9-divide_and_rule
 
 git add .
 
-git commit -m "Every addition to true knowledge is an addition to human power"
+git commit -m "Divide and rule"
 
 git push
