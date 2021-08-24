@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "Local variables"
+git commit -m "Local variable"
 
-git update-index --chmod=+x 5-local_variables
+git update-index --chmod=+x 6-create_local_variable
 
 git add .
 
-git commit -m "Local variables"
+git commit -m "Local variable"
 
 git push
