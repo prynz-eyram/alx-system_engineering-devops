@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "The path to success is to take massive, determined action"
+git commit -m "If the path be beautiful, let us not ask where it leads"
 
-git update-index --chmod=+x 2-path
+git update-index --chmod=+x 3-paths
 
 git add .
 
-git commit -m "The path to success is to take massive, determined action"
+git commit -m "If the path be beautiful, let us not ask where it leads"
 
 git push
