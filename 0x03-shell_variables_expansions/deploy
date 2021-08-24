@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "Global variable"
+git commit -m "Every addition to true knowledge is an addition to human power"
 
-git update-index --chmod=+x 7-create_global_variable
+git update-index --chmod=+x 8-true_knowledge
 
 git add .
 
-git commit -m "Global variable"
+git commit -m "Every addition to true knowledge is an addition to human power"
 
 git push
