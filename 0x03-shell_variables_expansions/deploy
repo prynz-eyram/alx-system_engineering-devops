@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "The eggs of the brood need to be an odd number"
+git commit -m " I'm an instant star. Just add water and stir."
 
-git update-index --chmod=+x 102-odd
+git update-index --chmod=+x 103-water_and_stir
 
 git add .
 
-git commit -m "The eggs of the brood need to be an odd number"
+git commit -m " I'm an instant star. Just add water and stir."
 
 git push
